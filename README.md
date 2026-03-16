@@ -7,9 +7,13 @@ SecureChat is a messaging application designed to provide secure and private com
 
 The app works like common messaging platforms but adds stronger encryption, authentication, and data-protection features to prevent
 ## Files
-Framework :
-.Twinkler 
+
+
+technology used:
+
+.Tkinler 
 .python
+.socket
 
 
 ## How to Run
