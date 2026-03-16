@@ -1,19 +1,17 @@
 # Secure Chat Project
 
 This project contains a simple client-server chat application.
-Description of SecureChat App
-Description:
+Description of SecureChat App 
 SecureChat is a messaging application designed to provide secure and private communication between users. It focuses on protecting messages, calls, and shared files through advanced security technologies so that only authorized users can access the information. It is often used by individuals, companies, and organizations that require confidential communication and data protection.
 
 The app works like common messaging platforms but adds stronger encryption, authentication, and data-protection features to prevent
-## Files
+
+technology used
+   .tkinter
+   .socket
+   .python
 
 
-technology used:
-
-.Tkinter 
-.python
-.socket
 
 
 ## How to Run
