@@ -11,7 +11,7 @@ The app works like common messaging platforms but adds stronger encryption, auth
 
 technology used:
 
-.Tkinler 
+.Tkinter 
 .python
 .socket
 
